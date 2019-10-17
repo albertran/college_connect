@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 #User Paperclip for image upload
-gem 'paperclip', '4.3.6'
+gem 'paperclip', '5.2.0'
 
 #Use simple_form for form building
 gem 'simple_form'
