@@ -37,7 +37,7 @@ gem 'paperclip', '4.3.6'
 gem 'simple_form'
 
 #Use bootstrap to style our website w css and sass stuff
-gem 'bootstrap-sass', '~> 3.3.5'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sassc-rails', '>= 2.1.0'
 
 #Use devise for user authentication
